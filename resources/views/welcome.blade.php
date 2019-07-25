@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Laravel on AWS through github - by parminder
                 </div>
+				<div>written on local</div>
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
